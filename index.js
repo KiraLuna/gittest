@@ -1,1 +1,2 @@
-kek
+console.log(123);
+
